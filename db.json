@@ -1,0 +1,24 @@
+{
+"products" : [
+		{"id":1,"name":"Great kiskadee","category":"Maroon"},
+		{"id":2,"name":"Argalis","category":"Blue"},
+		{"id":3,"name":"Squirrel, richardson's ground","category":"Turquoise"},
+		{"id":4,"name":"Rhea, gray","category":"Red"},
+		{"id":5,"name":"Gull, southern black-backed","category":"Goldenrod"},
+		{"id":6,"name":"Violet-eared waxbill","category":"Puce"},
+		{"id":7,"name":"Genet, small-spotted","category":"Crimson"},
+		{"id":8,"name":"Jaeger, long-tailed","category":"Mauv"},
+		{"id":9,"name":"Brush-tailed bettong","category":"Orange"},
+		{"id":10,"name":"Skunk, western spotted","category":"Purple"},
+		{"id":11,"name":"Bear, polar","category":"Orange"},
+		{"id":12,"name":"African darter","category":"Aquamarine"},
+		{"id":13,"name":"Red-tailed wambenger","category":"Yellow"},
+		{"id":14,"name":"African pied wagtail","category":"Crimson"},
+		{"id":15,"name":"Palm squirrel","category":"Aquamarine"},
+		{"id":16,"name":"Wapiti, elk,","category":"Blue"},
+		{"id":17,"name":"Red-necked wallaby","category":"Goldenrod"},
+		{"id":18,"name":"Screamer, crested","category":"Crimson"},
+		{"id":19,"name":"Dunnart, fat-tailed","category":"Orange"},
+		{"id":20,"name":"Dusky rattlesnake","category":"Orange"}
+	]
+}
